@@ -1,0 +1,17 @@
+main:
+  - title: "Product 1"
+    url: /product1/
+  - title: "Product 2"
+    url: /product2/
+  - title: "Blog"
+    url: /blog/
+  - title: "Contact"
+    url: /contact/
+
+product1:
+  - title: Features
+    children:
+      - title: "Feature 1"
+        url: /product1/feature1/
+      - title: "Feature 2"
+        url: /product1/feature2/
